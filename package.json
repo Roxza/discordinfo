@@ -1,0 +1,22 @@
+{
+  "name": "discordinfo.js",
+  "version": "1.0.0",
+  "description": "Get Discord Guild, Guild invites and user information with this Module.",
+  "main": "index.js",
+  "author": "Roxza#0002",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roxza/discordinfo.git"
+  },
+  "keywords": [
+    "discord",
+    "discord-info",
+    "discord-user",
+    "discord-invite",
+    "discord-guild"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
